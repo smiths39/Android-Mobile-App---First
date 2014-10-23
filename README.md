@@ -1,6 +1,7 @@
 This is the first Android mobile application in which I have developed by viewing Android development tutorials from "TheNewBoston".
 
 Features listed in this application are:
+
 1. UI front-end design
 2. Enable viewing text
 3. Button control
